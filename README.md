@@ -1,3 +1,9 @@
+## Submitted graphs and scripts
+Graphs and scripts are in "Figures_and_scripts_submitted" folder.
+
+
+
+
 ## Introduction
 
 This assignment uses data from
